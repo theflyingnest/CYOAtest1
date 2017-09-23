@@ -1,0 +1,30 @@
+﻿{
+	"version": 1503826020,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/listsection-sheet0.png",
+		"images/spritefont.png",
+		"images/9patch.png",
+		"images/9patchborderinnercover-sheet0.png",
+		"images/options-sheet0.png",
+		"images/controls-sheet0.png",
+		"images/controls-sheet1.png",
+		"images/ocean2.png",
+		"images/handles-sheet0.png",
+		"images/9patchslider.png",
+		"images/listsectionall-sheet0.png",
+		"crossroads.csv",
+		"base2.csv",
+		"loading-logo.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-256.png",
+		"icon-512.png",
+		"hooskeerage1.png",
+		"adapter.js"
+	]
+}

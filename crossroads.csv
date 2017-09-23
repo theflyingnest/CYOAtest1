@@ -1,0 +1,40 @@
+First,To 1B1*1B1*no,To 1B2*1B2*no,To 1B3*1B3*no,1A1
+Second 1,To 1C1*1C1*no,To 1C2*1C2*no,To 1C3*1C3*no,1B1
+Second 2,To 2C1*2C1*no,To 2C2*2C2*no,To 2C3*2C3*no,1B2
+Second 3,To 3C1*3C1*no,To 3C2*3C2*no,To 3C3*3C3*no,1B3
+Third 1 a,To Endings 1a*1D1*yes,To Endings 1b*1D2*yes,To Endings 1c*1DC*yes,1C1
+Thrid 1 b,To Endings 2a*2D1*yes,To Endings 2b*2D2*yes,To Endings 2c*2D3*yes,1C2
+Third 1 c,The Endings 3a*3D1*yes,To Endings 3b*3D2*yes,To Endings 3c*3D3*yes,1C3
+Third 2 a,The Endings 4a*4D1*yes,To Endings 4b*4D2*yes,To Endings 4c*4D3*yes,2C1
+Thrid 2 b,To Endings 5a*5D1*yes,To Endings 5b*5D2*yes,To Endings 5c*5D3*yes,2C2
+Third 2 c,To Endings 6a*6D1*yes,To Endings 6b*6D2*yes,To Endings 6c*6D3*yes,2C3
+Third 3 a,To Endings 7a*7D1*yes,To Endings 7b*7D2*yes,To Endings 7c*7D3*yes,3C1
+Third 3 b,To Endings 8a*8D1*yes,To Endings 8b*8D2*yes,To Endings 8b*8D3*yes,3C2
+Third 3 c,To Endings 9a*9D1*yes,To Endings 9b*9D2*yes,To Endings 9c*9D3*yes,3C3
+Reset,Reset,null,null,1D1
+Reset,Reset,resettest,null,1D2
+Reset,Reset,null,null,1D3
+Reset,Reset,null,null,2D1
+Reset,Reset,null,null,2D2
+Reset,Reset,null,null,2D3
+Reset,Reset,null,null,3D1
+Reset,Reset,null,null,3D2
+Reset,Reset,null,null,3D3
+Reset,Reset,null,null,4D1
+Reset,Reset,null,null,4D2
+Reset,Reset,null,null,4D3
+Reset,Reset,null,null,5D1
+Reset,Reset,null,null,5D2
+Reset,Reset,null,null,5D3
+Reset,Reset,null,null,6D1
+Reset,Reset,null,null,6D2
+Reset,Reset,null,null,6D3
+Reset,Reset,null,null,7D1
+Reset,Reset,null,null,7D2
+Reset,Reset,null,null,7D3
+Reset,Reset,null,null,8D1
+Reset,Reset,null,null,8D2
+Reset,Reset,null,null,8D3
+Reset,Reset,null,null,9D1
+Reset,Reset,null,null,9D2
+Reset,Reset,null,null,9D3
